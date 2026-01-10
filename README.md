@@ -9,7 +9,7 @@ live health monitoring and an AI-based healthcare chatbot.
 
 ## 📸 Demo Preview
 
-[Click here for Live view]([https://roshan-patil.streamlit.app/])
+[Click here for Live view](https://roshan-patil.streamlit.app/)
 
 ---
 
@@ -62,5 +62,6 @@ Features: 14 medical attributes
 - Multiple disease prediction
 - Cloud deployment
 - Mobile app support
+
 
 
