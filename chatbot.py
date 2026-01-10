@@ -9,10 +9,11 @@ def chatbot_response(text):
         return "Exercise, healthy diet, stress control, and avoiding smoking help prevent heart disease."
     elif "emergency" in text:
         return "Please contact a doctor or emergency services immediately."
-    elif "Is my heart rate normal?" in text:
+    elif "heart rate" in text:
         return "A normal resting heart rate for adults is usually between 60 and 100 beats per minute."
-    elif "How much water should I drink daily?" in text:
+    elif "water" in text:
         return "Most adults should aim for 2–3 liters per day, depending on activity level and climate."
     else:
         return "I am an AI healthcare assistant. Ask about heart disease, symptoms, or prevention."
+
 
